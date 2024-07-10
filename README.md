@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ivan Tretyakov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Telegram](https://t.me/Ivan_Tretiyakov)
+- 🌱 My [Kaggle](https://www.kaggle.com/hopeofchange) account
 
 <!---
 Attractive-Data/Attractive-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
